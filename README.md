@@ -6,10 +6,10 @@ I want to learn more about web development further.
 
 📚 Certifications:
 
-* CONQUERING RESPONSIVE LAYOUTS[link][https://courses.kevinpowell.co/certificates/cert_b5V8cpkR]
-* RESPONSIVE WEB DESIGN[link][https://www.freecodecamp.org/certification/fccb0b48f78-f7bd-4c26-a2d7-806c0bbe26ba/responsive-web-design]
-* MODERN HTML AND CSS FROM THE BEGINNING (INCLUDING SASS)[link][https://www.udemy.com/certificate/UC-0b24bccc-4099-4407-9602-67e3be175f3a/?utm_source=sendgrid.com]
-
+* CONQUERING RESPONSIVE LAYOUTS [https://courses.kevinpowell.co/certificates/cert_b5V8cpkR]
+* RESPONSIVE WEB DESIGN [https://www.freecodecamp.org/certification/fccb0b48f78-f7bd-4c26-a2d7-806c0bbe26ba/responsive-web-design]
+* MODERN HTML AND CSS FROM THE BEGINNING (INCLUDING SASS) [https://www.udemy.com/certificate/UC-0b24bccc-4099-4407-9602-67e3be175f3a/?utm_source=sendgrid.com]
+* Introduction to Cloud (CC0101EN, provided by IBM) [https://courses.cognitiveclass.ai/certificates/9f09983b97bf4cb18484fb86e12150de] [https://www.credly.com/badges/a3aca377-cb9e-4e9d-83d7-737aa5cd6d4b?source=linked_in_profile]
 
 👨‍💻 Contact me: 
 
