@@ -1,5 +1,6 @@
 
-🚀 Hello, my name is Anup Chand and I am an aspiring web developer with basic knowledge of HTML, CSS, SASS, JavaScript, and Responsive Web Design. 
+🚀 Hello, my name is Anup Chand and I am an aspiring web developer with basic knowledge of 
+:hammer_and_wrench: HTML, CSS, SASS, JavaScript, and Responsive Web Design. 
 
 I have obtained some certifications to further my skills in these areas.
 
