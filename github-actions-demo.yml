@@ -1,0 +1,21 @@
+# File: .github/workflows/update-year.yml
+name: Update Year
+on:
+  schedule:
+    - cron: '0 0 1 1 *' # Run at the beginning of every year
+jobs:
+  update-year:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Update Year
+      run: |
+        year=$(date +'%Y')
+        sed -i "s/Copyright.*All rights reserved/Copyright \u00A9 $year.  All rights reserved/" README.md
+    - name: Commit and push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -am "Update year"
+        git push
