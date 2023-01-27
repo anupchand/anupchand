@@ -19,16 +19,12 @@ I want to learn more about web development further.
 
 Email: anupchand@gmail.com
 
-LinkedIn: Visit my LinkedIn [link][https://www.linkedin.com/in/anup-chand/]
+LinkedIn: Visit my LinkedIn [https://www.linkedin.com/in/anup-chand/]
 
 Address: Lalitpur, Bagmati Province, Nepal
 
 📜 Copyright © <span id="thisYear"></span>.   All rights reserved
-```
-<script>
-  document.getElementById("thisYear").innerHTML = new Date().getFullYear();
-</script>
-```
+
 
 <!---
 anupchand/anupchand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
