@@ -25,6 +25,10 @@ Address: Lalitpur, Bagmati Province, Nepal
 
 📜 Copyright © <span id="thisYear"></span>.   All rights reserved
 
+<script>
+  document.getElementById("thisYear").innerHTML = new Date().getFullYear();
+</script>
+
 <!---
 anupchand/anupchand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
