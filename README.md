@@ -1,7 +1,7 @@
 
 🚀 Hello, my name is Anup Chand and I am working towards becomng a front-end React JS developer.
 
-:hammer_and_wrench: Current tools: HTML, CSS, SASS, JavaScript, and Responsive Web Design. 
+:hammer_and_wrench: Current tools: HTML, CSS, SASS, JavaScript, Git/GitHub, and Responsive Web Design. 
 
 Currently learning and building projects.
 
